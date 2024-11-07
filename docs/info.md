@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-circuit with a seven segment screen
+Design contains four inverters. Four inputs are directly connected to outputs and rest of them are inverted.
 
 ## How to test
 
-by toggling with the switch and see seven segment
+Just toggle the inputs then it will be reflecgted in the output.
 
 ## External hardware
 
