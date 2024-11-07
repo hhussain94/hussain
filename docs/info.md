@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+circuit with a seven segment screen
 
 ## How to test
 
-Explain how to use your project
+by toggling with the switch and see seven segment
 
 ## External hardware
 
